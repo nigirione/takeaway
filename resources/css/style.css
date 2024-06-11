@@ -144,7 +144,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 15vh;
+    height: 11vh;
     padding: 0 7vw;
     background-color:black;
     border-bottom: 2px rgb(116, 110, 109);
@@ -175,7 +175,7 @@ body {
   }
 
   .logo img{
-    width: 160px;
+    width: 140px;
     flex: 0 0 auto;
   }
 
