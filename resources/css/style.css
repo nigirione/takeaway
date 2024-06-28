@@ -71,6 +71,9 @@ body {
   margin-top: 20px;
 }
 
+.strong p {
+  color: rgb(166, 39, 41);
+}
 .timeTable p {
   text-align: center; 
   font-size: 1.5em;
